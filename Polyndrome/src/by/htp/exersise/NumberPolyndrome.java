@@ -31,9 +31,3 @@ public class NumberPolyndrome {
         return str.equals(new StringBuilder(str).reverse().toString());
     }
 }
-
-/**
-*@author - Kleinikov
-*I got the assignment : 06.04.2017 21.20
-*The assignment is complete : 09.04.2017 21.15
-*/
